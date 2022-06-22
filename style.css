@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+* body {
+  font-family: sans-serif;
+  font-size: 35px;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  background-color: #52b788;
+  height: 100vh;
+}/*# sourceMappingURL=style.css.map */
